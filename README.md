@@ -1,6 +1,6 @@
 # Coin Man
 
-An android game inspired by flappy bird using <a href="https://libgdx.com">libGDX</a> where the user can tap on the screen to make Coin Man jump. The goal is to collect as many coins as possible and not collide with a bomb, which results in the game being over. Happy Collecting!
+An android game inspired by flappy bird using <a href="https://libgdx.com">libGDX</a> where the user can tap on the screen to make Coin Man jump. The goal is to collect as many coins as possible and not collide with a bomb, which results in the game being over. Happy playing!
 
 ## Screenshots
 
